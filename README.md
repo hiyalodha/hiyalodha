@@ -17,7 +17,7 @@
     <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="80" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://portfolio-iivr.vercel.app/" target="_blank" rel="noreferrer">
+  <a href="https://portfolio-ivory-delta-26.vercel.app/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="70" />
   </a>
 
