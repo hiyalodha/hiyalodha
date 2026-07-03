@@ -5,7 +5,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">     
     <br>I'm <strong>Hiya Lodha</strong>
   </h1>
-  <p><i>AI/ML Engineer | Full Stack Developer | Blockchain Systems | Data Analytics</i></p>
+  <p><i>AI/ML Engineer | Full Stack Developer | Data Analytics</i></p>
 
 <!--linked in, gmail and discord links-->
 <div align="center">
