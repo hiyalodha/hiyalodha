@@ -43,7 +43,7 @@
 const Hiya = {
   name: 'Hiya Lodha',
   current: 'Exploring LLms & Reinforcement Learning',
-  interest: ['AI/ML', 'Blockchain', 'CyberSecurity', 'Data Analytics'],
+  interest: ['AI/ML', 'Blockchain', 'Data Analytics'],
  tech: {
   Frontend: ['React', 'Next.js', 'Tailwind CSS', 'HTML5', 'CSS3'],
   
