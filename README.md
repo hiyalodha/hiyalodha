@@ -63,7 +63,7 @@ const Hiya = {
   
   Blockchain: ['Solidity', 'Ethereum', 'Web3.js', 'Hardhat', 'IPFS', 'Smart Contracts', 'DeFi'],
   
-  Tools: ['Git', 'Postman', 'VS Code', 'Jupyter', 'Figma', 'Vercel', 'Databricks']
+  Tools: ['Git', 'Postman', 'VS Code', 'Jupyter', 'Vercel','Figma', 'Databricks']
 },
 };
 ```
