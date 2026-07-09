@@ -62,7 +62,7 @@ const Hiya = {
   BigData: ['Apache Hadoop', 'Apache Spark'],
 
   Tools: ['Git', 'Postman', 'VS Code', 'Jupyter', 'Vercel','Figma', 'Databricks']
-  
+
   Blockchain: ['Solidity', 'Ethereum', 'Web3.js', 'Hardhat', 'IPFS', 'Smart Contracts', 'DeFi'],
   
  
