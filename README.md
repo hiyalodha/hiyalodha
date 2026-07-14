@@ -45,9 +45,9 @@ const Hiya = {
   current: 'Exploring LLms & Reinforcement Learning',
   interest: ['AI/ML', 'Blockchain', 'Data Analytics'],
  tech: {
-  Frontend: ['React', 'Next.js', 'Tailwind CSS', 'HTML5', 'CSS3'],
-  
   Backend: ['Node.js', 'Express', 'FastAPI', 'Flask'],
+
+  Frontend: ['React', 'Next.js', 'Tailwind CSS', 'HTML5', 'CSS3'],
   
   Languages: ['Python', 'JavaScript', 'TypeScript', 'C++', 'Java'],
   
