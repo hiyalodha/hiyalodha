@@ -44,6 +44,7 @@ const Hiya = {
   name: 'Hiya Lodha',
   current: 'Exploring LLms & Reinforcement Learning',
   interest: ['AI/ML', 'Blockchain', 'Data Analytics'],
+
  tech: {
   Backend: ['Node.js', 'Express', 'FastAPI', 'Flask'],
 
