@@ -41,33 +41,30 @@
   
 ```js
 const Hiya = {
-  name: 'Hiya Lodha',
-  current: 'Exploring LLms & Reinforcement Learning',
-  interest: ['AI/ML', 'Blockchain', 'Data Analytics'],
+  role: "AI/ML Engineer • Full-Stack Developer",
 
- tech: {
-  Backend: ['Node.js', 'Express', 'FastAPI', 'Flask'],
+  building:
+    "Intelligent, scalable applications that solve real-world problems.",
 
-  Frontend: ['React', 'Next.js', 'Tailwind CSS', 'HTML5', 'CSS3'],
-  
-  Languages: ['Python', 'JavaScript', 'TypeScript', 'C++', 'Java'],
-  
-  AI_ML: ['TensorFlow', 'PyTorch', 'OpenCV', 'Hugging Face', 'LangChain', 'YOLO', 'Pandas', 'Scikit-Learn'],
-  
-  Cloud: ['AWS', 'Google Cloud'],
-  
-  Databases: ['MongoDB', 'PostgreSQL', 'MySQL', 'Redis', 'Cassandra', 'Supabase'],
-  
-  BigData: ['Apache Hadoop', 'Apache Spark'],
+  interests: [
+    "Artificial Intelligence & Machine Learning",
+    "Generative AI & LLMs",
+    "Full-Stack Engineering",
+    "System Design & Microservices",
+    "Blockchain & Web3"
+  ],
 
-  DevOps: ['Docker', 'Kubernetes'],
+  stack: {
+    languages: ["Python", "C++", "Java", "TypeScript", "JavaScript", "SQL"],
+    ai_ml: ["PyTorch", "TensorFlow", "Scikit-Learn", "OpenCV"],
+    backend: ["FastAPI", "Node.js", "Express.js"],
+    frontend: ["React", "Next.js", "Tailwind CSS"],
+    databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
+    cloud: ["AWS", "Docker", "Vercel"],
+    blockchain: ["Solidity", "Ethereum", "Web3.js", "Hardhat"]
+  },
 
-  Tools: ['Git', 'Postman', 'VS Code', 'Jupyter', 'Vercel','Figma', 'Databricks'],
-
-  Blockchain: ['Solidity', 'Ethereum', 'Web3.js', 'Hardhat', 'IPFS', 'Smart Contracts', 'DeFi'],
-  
- 
-},
+  philosophy: "Learn → Build → Iterate → Impact 🚀"
 };
 ```
 
