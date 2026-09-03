@@ -58,9 +58,9 @@ const Hiya = {
   
   Databases: ['MongoDB', 'PostgreSQL', 'MySQL', 'Redis', 'Cassandra', 'Supabase'],
   
-  DevOps: ['Docker', 'Kubernetes'],
-  
   BigData: ['Apache Hadoop', 'Apache Spark'],
+
+  DevOps: ['Docker', 'Kubernetes'],
 
   Tools: ['Git', 'Postman', 'VS Code', 'Jupyter', 'Vercel','Figma', 'Databricks'],
 
