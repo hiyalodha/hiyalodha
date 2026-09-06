@@ -95,11 +95,11 @@ const Hiya = {
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,firebase" />
 
-  <!-- Cloud & DevOps -->
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions" />
-
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode,webstorm,vim,bun,yarn" />
+
+  <!-- Cloud & DevOps -->
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions" />
 
   <!-- AI/ML -->
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" />
