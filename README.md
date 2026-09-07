@@ -112,11 +112,12 @@ const Hiya = {
     />
   </a>
 
+    <!-- Hardware & Systems -->
+  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,bsd,arch,linux" height="40" />
+
   <!-- Auth -->
   <img src="https://cdn.simpleicons.org/clerk/ffffff" height="40" />
 
-  <!-- Hardware & Systems -->
-  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,bsd,arch,linux" height="40" />
 
   <!-- Special -->
   <a href="https://puter.com" target="_blank">
