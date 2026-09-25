@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/hiya-lodha-9ab8b1324/" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80" />
-  </a>
+  </a> 
   &nbsp;&nbsp;
   <a href="https://x.com/HiyaLodha" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="80" />
