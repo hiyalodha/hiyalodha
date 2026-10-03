@@ -3,7 +3,7 @@
   <h1>
     Hello!!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">     
-    <br>I'm <strong>Hiya Lodha</strong>
+    <br>I'm <strong> Hiya Lodha </strong>
   </h1>
   <p><i> AI/ML Engineer | Full Stack Developer | Data Analytics </i></p>
 
